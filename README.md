@@ -14,7 +14,7 @@ Set virtualenv environment
 `. venv/bin/activate`
 
 ### Install dependencies with pip
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 ### Migrate database
 
@@ -27,6 +27,14 @@ Set folder
 Run migrate
 
 `python manage.py migrate`
+
+## Requirements
+
+- Django 4.0
+- Django Rest Framework 3.13
+- Python versions 3.8 or 3.9 (is not work with 3.10, please wait)
+
+See [requirements.txt](requirements.txt)
 
 ## Docs
 
