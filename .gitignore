@@ -1,0 +1,10 @@
+images/
+.idea
+user/__pycache__
+products/__pycache__
+api/__pycache__
+user/migrations/__pycache__
+products/migrations/__pycache__
+user/migrations
+products/migrations
+venv
