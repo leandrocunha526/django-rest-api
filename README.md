@@ -28,6 +28,14 @@ Run migrate
 
 `python manage.py migrate`
 
+Run server
+
+`python manage.py runserver`
+
+API root: http://localhost:8000
+
+Admin: http://localhost:8000/admin
+
 ## Requirements
 
 - Django 4.0
