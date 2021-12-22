@@ -18,7 +18,7 @@ Set virtualenv environment
 
 ### Migrate database
 
-The project need MariaDB or MySQL to database and settings in `/api/settings`.
+The project need MariaDB or MySQL to database and settings in `api/settings`.
 
 Create folder `products/migrations` and archive `__init__.py`.
 
