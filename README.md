@@ -20,7 +20,7 @@ Set virtualenv environment
 
 The project need MariaDB or MySQL to database and settings in `/api/settings`.
 
-Create folder `migrations` and archive `__init__.py`.
+Create folder `products/migrations` and archive `__init__.py`.
 
 Make migrations
 
