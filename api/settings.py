@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'user',
     'rest_framework.authtoken',
-    'products'
+    'products',
+    'versatileimagefield'
 ]
 
 REST_FRAMEWORK = {
