@@ -8,3 +8,4 @@ products/migrations/__pycache__
 user/migrations
 products/migrations
 venv
+__sized__
