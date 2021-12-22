@@ -42,8 +42,8 @@ Admin: http://localhost:8000/admin
 
 - Django 4.0 [Release Note](https://docs.djangoproject.com/en/4.0/releases/4.0/)
 - Django Rest Framework 3.13.1 [Release Note](https://www.django-rest-framework.org/community/3.13-announcement/)
-- Python versions 3.8 or 3.9 (is not work with 3.10, please wait)
-- MariaDB or MySQL (mysqlclient or PyMySQL)
+- Python3 (tested with 3.9)
+- MariaDB or MySQL (mysqlclient and PyMySQL)
 - PyJWT and Django REST Framework PyJWT
 - Virtualenv
 
