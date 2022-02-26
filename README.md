@@ -20,12 +20,6 @@ Set virtualenv environment
 
 The project need MariaDB or MySQL to database and settings in `api/settings`.
 
-Create folder `products/migrations` and archive `__init__.py`.
-
-Make migrations
-
-`python3 manage.py makemigrations`
-
 Run migrate
 
 `python manage.py migrate`
@@ -40,7 +34,7 @@ Admin: http://localhost:8000/admin
 
 ## Requirements
 
-- Django 4.0 [Release Note](https://docs.djangoproject.com/en/4.0/releases/4.0/)
+- Django 4.0.2 [Release Note](https://docs.djangoproject.com/en/4.0/releases/4.0.2/)
 - Django Rest Framework 3.13.1 [Release Note](https://www.django-rest-framework.org/community/3.13-announcement/)
 - Python3 (tested with 3.9)
 - MariaDB or MySQL (mysqlclient and PyMySQL)
