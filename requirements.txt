@@ -3,7 +3,7 @@ backports.entry-points-selectable==1.1.1
 certifi==2022.12.7
 charset-normalizer==2.0.9
 distlib==0.3.4
-Django==4.0.8
+Django==4.0.9
 django-filter==21.1
 django-versatileimagefield==2.2
 djangorestframework==3.13.1
