@@ -1,5 +1,5 @@
 asgiref==3.6.0
-Django==4.2.10
+Django==4.2.11
 django-filter==23.1
 django-versatileimagefield==3.0
 djangorestframework==3.14.0
